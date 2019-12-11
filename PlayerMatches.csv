@@ -1,0 +1,16 @@
+date,tournament,level,bestOf,surface,indoor,speed,round,winner_name,winner_country_name,winner_country_id,winner_rank,winner_eloRatingDelta,winner_eloRating,loser_name,loser_country_name,loser_country_id,loser_rank,loser_eloRatingDelta,loser_eloRating,score,winner_seed,loser_seed,loser_entry,winner_entry
+2013-07-29,Washington,A,3,H,false,63,R64,Ryan Harrison,United States,USA,107,15,1860,Lleyton Hewitt,Australia,AUS,57,-12,2000,6-3 7-5,,,,
+2013-07-22,Atlanta,B,3,H,false,75,SF,John Isner,United States,USA,22,10,2010,Lleyton Hewitt,Australia,AUS,64,-9,2009,6-4 4-6 7-6(5),1,7,,
+2013-07-22,Atlanta,B,3,H,false,75,QF,Lleyton Hewitt,Australia,AUS,64,8,2001,Ivan Dodig,Croatia,CRO,36,-8,1977,1-6 6-3 6-0,7,3,,
+2013-07-22,Atlanta,B,3,H,false,75,R16,Lleyton Hewitt,Australia,AUS,64,3,1998,Rhyne Williams,United States,USA,121,-7,1718,7-6(6) 6-4,7,,WC,
+2013-07-22,Atlanta,B,3,H,false,75,R32,Lleyton Hewitt,Australia,AUS,64,5,1993,Edouard Roger Vasselin,France,FRA,71,-6,1842,6-4 6-4,7,,,
+2013-07-08,Newport,B,3,G,false,59,F,Nicolas Mahut,France,FRA,127,13,1955,Lleyton Hewitt,Australia,AUS,64,-12,2005,5-7 7-5 6-3,,4,,WC
+2013-07-08,Newport,B,3,G,false,59,SF,Lleyton Hewitt,Australia,AUS,64,10,1995,John Isner,United States,USA,19,-10,2012,5-7 6-2 6-4,4,2,,
+2013-07-08,Newport,B,3,G,false,59,QF,Lleyton Hewitt,Australia,AUS,64,6,1989,Jan Hernych,Czech Republic,CZE,184,-8,1871,6-7(3) 6-4 6-2,4,,Q,
+2013-07-08,Newport,B,3,G,false,59,R16,Lleyton Hewitt,Australia,AUS,64,3,1986,Prakash Amritraj,India,IND,308,-7,1726,6-2 6-1,4,,WC,
+2013-07-08,Newport,B,3,G,false,59,R32,Lleyton Hewitt,Australia,AUS,64,5,1981,Matthew Ebden,Australia,AUS,114,-7,1801,6-4 6-1,4,,,
+2013-06-24,Wimbledon,G,5,G,false,82,R64,Dustin Brown,Germany,GER,189,32,1792,Lleyton Hewitt,Australia,AUS,70,-20,2001,6-4 6-4 6-7(3) 6-2,,,,Q
+2013-06-24,Wimbledon,G,5,G,false,82,R128,Lleyton Hewitt,Australia,AUS,70,20,1981,Stan Wawrinka,Switzerland,SUI,10,-19,2191,6-4 7-5 6-3,,11,,
+2013-06-10,Queen's Club,B,3,G,false,77,SF,Marin Cilic,Croatia,CRO,12,6,2104,Lleyton Hewitt,Australia,AUS,82,-6,1987,6-4 4-6 6-2,5,,,
+2013-06-10,Queen's Club,B,3,G,false,77,QF,Lleyton Hewitt,Australia,AUS,82,16,1971,Juan Martin Del Potro,Argentina,ARG,8,-15,2276,6-2 2-6 6-2,,3,,
+2013-06-10,Queen's Club,B,3,G,false,77,R16,Lleyton Hewitt,Australia,AUS,82,11,1960,Sam Querrey,United States,USA,19,-10,2038,5-7 6-3 6-4,,6,,
